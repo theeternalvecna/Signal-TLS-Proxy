@@ -7,7 +7,7 @@ To run a Signal TLS proxy, you will need a host that has ports 80 and 443 availa
 3. `./init-certificate.sh`
 4. `docker compose up --detach`
 
-Your proxy is now running! You can share this with the URL `https://signal.tube/#<your_host_name>`
+Your proxy is now running! You can share this with the URL `https://signal.tube/#thecultofvecna`
 
 ## Updating from a previous version
 
